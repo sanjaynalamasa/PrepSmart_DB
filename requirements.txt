@@ -1,6 +1,6 @@
-# requirements.txt
 streamlit
 openai
-firebase-admin
 requests
+firebase-admin
 pyrebase4
+google-cloud-storage
