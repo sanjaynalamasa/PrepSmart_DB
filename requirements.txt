@@ -1,7 +1,8 @@
 streamlit
 openai
-requests
 firebase-admin
-pyrebase4
+requests
 google-cloud-storage
+pyrebase4
 gcloud==0.18.3
+setuptools  # This is required to fix 'pkg_resources' missing
