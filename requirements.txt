@@ -4,3 +4,4 @@ requests
 firebase-admin
 pyrebase4
 google-cloud-storage
+gcloud==0.18.3
